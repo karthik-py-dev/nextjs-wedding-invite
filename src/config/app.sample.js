@@ -14,7 +14,7 @@ const baseConfig = {
     coupleNameFormat: "GROOM_FIRST"
   },
   venue: {
-    name: "Oval Hotel",
+    name: "Tranquil valley",
     addressLine1: "Jalan Diponegoro No.23,",
     addressLine2: "Surabaya, East Java 60241,",
     city: "Surabaya",
